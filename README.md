@@ -4,7 +4,7 @@
 
 ![Platform iOS](https://img.shields.io/badge/nanodegree-iOS-blue.svg)
 
-This repository contains resources for the GifMaker (Swift) project.
+This repository contains resources for the GifMaker (Swift) project. This project is for practising porting Objective-C code to Swift, following the udactiy course "Objective-C for Switft Developers".
 
 ## Overview
 
@@ -13,7 +13,3 @@ GifMaker is an app that lets users create simple GIF animations from their iOS d
 ## Setup
 
 GifMaker should run without any additional setup.
-
-## Maintainers
-
-@GabrielleM
